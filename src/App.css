@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  width: 1050px;
+  margin-left: 18%
+}
+
+.mainDivs{
+  background-color: lightslategray;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  transition: 0.3s;
+  border-radius: 5px;
+  width: 450px;
+  margin: auto;
+  text-align: center;
+
+}
